@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho em no BI de uma gráficos, criando e gerindo projetos em R, Shiny e RMarkdown.
 - 🌱 Atualmente estou estudando gestão de bancos de dados , e algumas novas ferramentas de criação de Dashboards e Relatórios  ( Tableau, Power BI).
-- 💬 Pergunte-me sobre questões relacionadas a linguagem R e platy de gráficos. 
+- 💬 Pergunte-me sobre questões relacionadas a linguagem R e ploty de gráficos. 
 
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
